@@ -1,0 +1,11 @@
+name: TNTExplosionEditor
+main: PreparationH67.TNTExplosionEditor.Main
+version: 0.1
+
+commands:
+    debug:
+        description: blah blah
+        usage: /debug
+    tnt:
+        description: Changes the TNT properties 
+        usage: /tnt <property> <value>
